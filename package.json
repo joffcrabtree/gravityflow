@@ -5,7 +5,7 @@
   "description": "Build script for Gravity Flow.",
   "main": "Gruntfile.js",
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.6.1",
     "grunt-aws-s3": "^0.11.1",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-compress": "^0.13.0",
